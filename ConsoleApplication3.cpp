@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 int a = 5;
-int b = 7;
+int b = 5;
 int c;
 int funcrion();
 int main()
