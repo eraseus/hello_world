@@ -17,5 +17,5 @@ int funcrion()
 {
 	a = b++;
 
-	return a;
+	return b;
 }
