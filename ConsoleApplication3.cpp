@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-int a = 4;
+int a = 5;
 int b = 7;
 int c;
 int funcrion();
@@ -15,7 +15,7 @@ int main()
 
 int funcrion()
 {
-	a = b++;
+	a = b--;
 
 	return b;
 }
