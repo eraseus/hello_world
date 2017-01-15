@@ -1,4 +1,4 @@
 #include "Header.h"
-void sendcommandforport(unsigned int port, unsigned char bit) {
+void sendcommandforport(unsigned char port, unsigned char bit) {
 	return;
 }
